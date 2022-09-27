@@ -1,0 +1,6 @@
+-   [Data Types](Data-Types.md)
+-   [Logging In](Logging-In.md)
+-   Gateway
+    -   [Connecting](/Gateway/Connecting.md)
+    -   [OpCodes](/Gateway/Opcodes.md)
+    -   [Events](/Gateway/Events.md)
